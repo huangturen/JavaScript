@@ -1,0 +1,7 @@
+用‘’或“”括起来的字符
+
+当‘是字符串的一部分的时候，用“”
+
+如果’和“”都是字符串的一部分，可以使用转义字符来表示
+
+字符串常见的api类似于常见语言的api，如length，substring，toLowerCase，toUpperCase等
